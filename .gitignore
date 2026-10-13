@@ -1,0 +1,18 @@
+# 비공개 정보
+.env
+
+# 영상·대용량 데이터
+data/videos/
+data/frames/
+*.mp4
+*.mov
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# 기타
+.DS_Store
+.ipynb_checkpoints/
